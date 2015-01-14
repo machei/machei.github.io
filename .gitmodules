@@ -1,0 +1,3 @@
+[submodule "angular-trianglify-animate"]
+	path = angular-trianglify-animate
+	url = git://github.com/machei/angular-trianglify-animate.git
